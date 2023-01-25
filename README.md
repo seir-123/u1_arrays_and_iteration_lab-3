@@ -268,6 +268,9 @@ Should now generate:
 # # # # # # # # # # 
 
 ```
+## Submission Guidelines
+
+- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/bmorataya3/Pull-Request-Template/blob/main/README.md)
 
 
 ## Done Early?
